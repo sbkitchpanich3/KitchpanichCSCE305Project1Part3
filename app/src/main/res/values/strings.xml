@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KitchpanichCSCE305Project1Part3</string>
+    <string name="rest_thai_textview">บะก</string>
+    <string name="prev_button">PREV</string>
+    <string name="flip_button">FLIP</string>
+    <string name="next_button">NEXT</string>
+    <string name="rest_textview">บัก</string>
+    <string name="vegetable_textview">เก็ด</string>
+    <string name="love_textview">เบ็ก</string>
+    <string name="wig_textview">กบ</string>
+    <string name="building_textview">บก</string>
+    <string name="love_thai_textview">เบะก</string>
+    <string name="building_thai_textview">โบะก</string>
+    <string name="vegetable_thai_textview">เกะด</string>
+    <string name="wig_thai_textview">โกะบ</string>
+</resources>
